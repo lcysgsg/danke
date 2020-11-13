@@ -15,6 +15,7 @@
     "url": "https://github.com/lcysgsg/danke/issues"
   },
   "devDependencies": {
+    "markdown-it-disable-url-encode": "^1.0.1",
     "vuepress": "^1.7.1"
   },
   "scripts": {
