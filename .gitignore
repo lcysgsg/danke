@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# [Updating config.js or YAML Frontmatter don't trigger Hot Reload](https://github.com/vuejs/vuepress/issues/2437#issuecomment-651806250)
+.temp
