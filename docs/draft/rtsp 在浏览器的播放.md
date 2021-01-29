@@ -1,0 +1,6 @@
+[浏览器无插件播放rtsp流解决方案](https://www.cnblogs.com/warcraft/p/11216228.html)
+[html5播放rtsp方案](https://my.oschina.net/chengpengvb/blog/1832469)
+[video](https://github.com/chengpengvb/video)
+[ffmpeg](https://www.npmjs.com/package/fluent-ffmpeg)
+[JSMpeg](https://github.com/phoboslab/jsmpeg)
+[node-rtsp-stream](https://github.com/kyriesent/node-rtsp-stream)
